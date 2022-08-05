@@ -1,0 +1,20 @@
+{
+  "name": "dh-pg_projeto_html_css",
+  "version": "1.0.0",
+  "description": "- [Código-fonte](./)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saviocode/dh-pg_projeto_html_css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saviocode/dh-pg_projeto_html_css/issues"
+  },
+  "homepage": "https://github.com/saviocode/dh-pg_projeto_html_css#readme"
+}
